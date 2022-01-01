@@ -25,11 +25,10 @@ class Messages():
       HELP_MSG = [
         "",
 f"""
-**Hey 👋 Welcome back to {PROJECT_NAME}
+** {PROJECT_NAME}
 
-✨ {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
 
-✨ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
+
 """,
 
 f"""
